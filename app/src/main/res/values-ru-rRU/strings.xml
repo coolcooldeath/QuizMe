@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Me</string>
+    <string name="choose_category">- Выбери категорию!</string>
+    <string name="home">Домой</string>
+    <string name="rank">Ранг</string>
+    <string name="profile">Профиль</string>
+    <string name="update_profile">Изменить пароль</string>
+    <string name="hello_blank_fragment">Пустой фрагмент</string>
+    <string name="play_quiz">- Отвечай на вопросы!</string>
+    <string name="collect_coins">- Собирай монетки!</string>
+    <string name="compete">- Соревнуйся с друзьями!</string>
+    <string name="next">Следующий вопрос</string>
+    <string name="startup">" Начало"</string>
+    <string name="spin_wheel">Ежедневная награда</string>
+    <string name="yes">Понятно!</string>
+    <string name="internet">Нет интернета!</string>
+    <string name="internet_message">Для обновления данных необходим интернет,однако можно играть и без него,если данные уже загружены</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="login_acc">Вход в аккаунт</string>
+    <string name="login_invalid">Неверный логин</string>
+    <string name="login_message">Неверный логин или пароль!</string>
+    <string name="create_account">Регистрация</string>
+    <string name="exit">Выйти из аккаунта</string>
+    <string name="internet_leaderboard_message">Для просмотра таблицы лидеров необходим интернет!</string>
+</resources>

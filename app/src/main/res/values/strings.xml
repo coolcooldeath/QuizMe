@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quiz Me</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="choose_category">- Choose category</string>
+    <string name="home">home</string>
+    <string name="rank">rank</string>
+    <string name="profile">profile</string>
+    <string name="play_quiz">- Play Quiz</string>
+    <string name="collect_coins">- Collect Coins</string>
+    <string name="compete">- Compete with Friends</string>
+    <string name="next">Next</string>
+    <string name="startup">Startup</string>
+    <string name="spin_wheel">Spin Wheel</string>
+    <string name="yes">Okay!</string>
+    <string name="internet">No internet!</string>
+    <string name="internet_message">Для обновления данных необходим интернет,однако можно играть и без него,если данные уже загружены</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="login_acc">Вход в аккаунт</string>
+    <string name="login_invalid">Неверный логин</string>
+    <string name="login_message">Неверный логин или пароль!</string>
+    <string name="create_account">Регистрация</string>
+    <string name="exit">Выйти из аккаунта</string>
+    <string name="internet_leaderboard_message">Для просмотра таблицы лидеров необходим интернет!</string>
+    <string name="login_repeat">Такой логин уже есть!</string>
+    <string name="login_empty">Заполните поля!</string>
+    <string name="internet_message_login">Для авторизации или регистрации необходим интернет!</string>
+    <string name="password_changed">Пароль обновлен!</string>
+</resources>
