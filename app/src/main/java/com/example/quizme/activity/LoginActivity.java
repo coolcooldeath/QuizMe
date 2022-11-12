@@ -114,14 +114,6 @@ public class LoginActivity extends AppCompatActivity {
                                         binding.createNewBtn.setEnabled(false);
                                         dialog.dismiss();
                                         Log.d("HttpCodeID","responseToken.getAccess_token() " + responseToken.getAccess_token());
-                                        SharedPreferences.Editor editor = mSettings.edit();
-                                        editor.putBoolean("authorize", true);
-                                        editor.putLong("coins", responseUser.getCoins());
-                                        editor.putString("access_token", responseToken.getAccess_token());
-                                        editor.putString("username", responseToken.getUsername());
-                                        editor.apply();
-                                        finish();
-                                        startActivity(new Intent(LoginActivity.this, MainActivity.class));
 
                                     } else {
                                         dialog.dismiss();
